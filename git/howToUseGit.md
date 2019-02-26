@@ -78,3 +78,10 @@
 
 
     git clone -b tes git@github.com:XiGongZi/JDI.git  克隆此项目分支名为 tes 的分支
+
+
+git checkout .              放弃所有修改
+
+git pull origin master    从远端拉取master分支
+
+
